@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MultiLanguage</string>
+    <string name="introduction">હેલો!
+મારું નામ સુરેશ પ્રજાપતિ છે, મૂળ પાટણનો, અને હું અમદાવાદમાં રહેતો એન્ડ્રોઇડ ડેવલપર છું. એન્ડ્રોઇડ એપ ડેવલપમેન્ટમાં છ વર્ષના અનુભવ સાથે, મને 15 થી વધુ એપ્લિકેશનો પર કામ કરવાની તક મળી છે. હું નવીનતમ તકનીકો સાથે અપ-ટૂ-ડેટ રહેવા માટે ઉત્સાહી છું.
+
+હું Java અને Kotlin બંનેમાં નિપુણ છું, અને હું હાલમાં Jetpack Compose માં ડાઇવિંગ કરું છું. તે પછી, હું કોટલિન મલ્ટિપ્લેટફોર્મ અને રીએક્ટ નેટિવનું અન્વેષણ કરવાની યોજના ઘડી રહ્યો છું. તમે GitHub પર મારા ડેમો પ્રોજેક્ટ્સ શોધી શકો છો, જ્યાં હું મારા કાર્યનું પ્રદર્શન કરું છું અને મારી શીખવાની યાત્રા શેર કરું છું </string>
+    <string name="multiple_languages">બહુવિધ ભાષાઓ</string>
+    <string name="english">English</string>
+    <string name="hindi">Hindi</string>
+    <string name="gujarati">Gujarati</string>
+    <string name="tamil">Tamil</string>
+    <string name="chinese">Chinese</string>
+    <string name="spanish">Spanish</string>
+
+</resources>

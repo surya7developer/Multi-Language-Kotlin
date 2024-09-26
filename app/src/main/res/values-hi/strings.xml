@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MultiLanguage</string>
+    <string name="introduction">नमस्ते!
+मेरा नाम सुरेश प्रजापति है, मैं मूल रूप से पाटन का रहने वाला हूँ, और मैं अहमदाबाद में रहने वाला एक Android डेवलपर हूँ। Android ऐप डेवलपमेंट में छह साल के अनुभव के साथ, मुझे 15 से ज़्यादा एप्लीकेशन पर काम करने का मौका मिला है। मुझे नवीनतम तकनीकों के साथ अपडेट रहने का शौक है।
+
+मैं Java और Kotlin दोनों में कुशल हूँ, और मैं वर्तमान में Jetpack Compose में गोता लगा रहा हूँ। इसके बाद, मैं Kotlin Multiplatform और React Native को एक्सप्लोर करने की योजना बना रहा हूँ। आप GitHub पर मेरे डेमो प्रोजेक्ट पा सकते हैं, जहाँ मैं अपना काम दिखाता हूँ और अपनी सीखने की यात्रा साझा करता हूँ </string>
+    <string name="multiple_languages">कई भाषाएं</string>
+    <string name="english">English</string>
+    <string name="hindi">Hindi</string>
+    <string name="gujarati">Gujarati</string>
+    <string name="tamil">Tamil</string>
+    <string name="chinese">Chinese</string>
+    <string name="spanish">Spanish</string>
+
+</resources>

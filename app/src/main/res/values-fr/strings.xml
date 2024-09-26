@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="english">English</string>
+    <string name="hindi">Hindi</string>
+    <string name="gujarati">Gujarati</string>
+    <string name="tamil">Tamil</string>
+    <string name="chinese">Chinese</string>
+    <string name="spanish">Spanish</string>
+</resources>

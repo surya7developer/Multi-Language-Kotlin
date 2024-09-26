@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MultiLanguage</string>
+    <string name="introduction">¡Hola!
+Mi nombre es Suresh Prajapati, soy originario de Patan y soy un desarrollador de Android radicado en Ahmedabad. Con seis años de experiencia en el desarrollo de aplicaciones de Android, he tenido la oportunidad de trabajar en más de 15 aplicaciones. Me apasiona estar actualizado con las últimas tecnologías.
+
+Soy competente en Java y Kotlin, y actualmente estoy profundizando en Jetpack Compose. Después de eso, planeo explorar Kotlin Multiplatform y React Native. Puedes encontrar mis proyectos de demostración en GitHub, donde muestro mi trabajo y comparto mi recorrido de aprendizaje. </string>
+    <string name="multiple_languages">Varios idiomas</string>
+    <string name="english">English</string>
+    <string name="hindi">Hindi</string>
+    <string name="gujarati">Gujarati</string>
+    <string name="tamil">Tamil</string>
+    <string name="chinese">Chinese</string>
+    <string name="spanish">Spanish</string>
+
+</resources>
