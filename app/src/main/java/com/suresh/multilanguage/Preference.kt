@@ -15,4 +15,4 @@ fun Context.saveSelectedLanguage(language: String) {
 
 fun Context.getSelectedLanguage() =
     getSharedPreferences(DATA_NAME, Context.MODE_PRIVATE)
-        .getString(SELECTED_LANGUAGE, DEFAULT)
+        .getString(SELECTED_LANGUAGE, DEFAULT).toString()
